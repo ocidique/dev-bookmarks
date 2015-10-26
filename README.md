@@ -22,6 +22,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + Widgets
   + Forms
   + Transitions
+    + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
 + Performance
 + Testing
 
