@@ -16,7 +16,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + CSS
    
 + Cross Browser
-+ Cross Device
++ Responsive
   +   
 + UI
   + Colors
