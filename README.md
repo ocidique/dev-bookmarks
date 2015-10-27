@@ -10,6 +10,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + HTML
 + Architecture
 + Workflow
+  + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
 + Frameworks
   + JavaScript
