@@ -34,6 +34,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + Transitions
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
 + Performance
+  + [Browserify](http://browserify.org/): Require modules like in Node.js 
 + Testing
 
 
