@@ -30,6 +30,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + Images
     + [PictureFill](https://scottjehl.github.io/picturefill/): A responsive image polyfill
     + [Compressor.io](https://compressor.io/): Compress and optimize your images, up to 90% file size reduction
+    + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
   + Forms
   + Transitions
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
