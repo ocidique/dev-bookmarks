@@ -10,6 +10,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + HTML
   
 + Architecture
+  +
 
 + Workflow
   + Package Managers
@@ -28,6 +29,7 @@ List of bookmarked front end development resources that I use on a regular basis
   
 + RWD & Cross Device
   + 
+  
 + UI
   + Colors
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
@@ -44,8 +46,12 @@ List of bookmarked front end development resources that I use on a regular basis
   + Transitions
     + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
+    + 
 + Performance
   + [Browserify](http://browserify.org/): Require modules like in Node.js 
+  +
+
 + Testing
+  + 
 
 
