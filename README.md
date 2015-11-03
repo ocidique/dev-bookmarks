@@ -8,20 +8,24 @@ List of bookmarked front end development resources that I use on a regular basis
       + [Sass style guide](https://css-tricks.com/sass-style-guide/)
   + JavaScript
   + HTML
+  
 + Architecture
+
 + Workflow
   + Package Managers
     + [npm](https://www.npmjs.com/): Default package manager for Node.js
     + [Bower](http://bower.io/): Front end package manager. Good for JavaScript dependencies.   
   + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
+  
 + Frameworks
   + JavaScript
   + CSS
    
 + Cross Browser
+  + [Modernizr](https://modernizr.com/): Library for detecting browser features
 + RWD & Cross Device
-  +   
+  + 
 + UI
   + Colors
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
