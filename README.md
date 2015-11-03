@@ -10,6 +10,9 @@ List of bookmarked front end development resources that I use on a regular basis
   + HTML
 + Architecture
 + Workflow
+  + Package Managers
+    + [NPM](https://www.npmjs.com/): Default package manager for Node.js
+    + [Bower](http://bower.io/): Front end package manager. Good for JavaScript dependencies.   
   + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
 + Frameworks
