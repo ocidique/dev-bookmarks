@@ -36,6 +36,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
   + Forms
   + Transitions
+    + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
 + Performance
   + [Browserify](http://browserify.org/): Require modules like in Node.js 
