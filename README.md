@@ -24,6 +24,8 @@ List of bookmarked front end development resources that I use on a regular basis
    
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
+  + 
+  
 + RWD & Cross Device
   + 
 + UI
