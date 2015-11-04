@@ -6,30 +6,27 @@ List of bookmarked front end development resources that I use on a regular basis
     + [First thing to understand in CSS](https://css-tricks.com/the-css-box-model/): The CSS Box Model
     + Sass
       + [Sass style guide](https://css-tricks.com/sass-style-guide/)
+    + Less
+    + Stylus
   + JavaScript
   + HTML
-  
 + Architecture
-  +
-
 + Workflow
   + Package Managers
     + [npm](https://www.npmjs.com/): Default package manager for Node.js
     + [Bower](http://bower.io/): Front end package manager. Good for JavaScript dependencies.   
   + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
-  
+    +   
+  + [JSHint](http://jshint.com/): A Static Code Analysis Tool for JavaScript
 + Frameworks
   + JavaScript
+    + [AngularJS](https://angularjs.org/): Open source web-application framework
   + CSS
-   
+    + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
+    + [Pure](http://purecss.io/): Small CSS framework with responsive modules
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
-  + 
-  
-+ RWD & Cross Device
-  + 
-  
 + UI
   + Colors
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
@@ -46,11 +43,8 @@ List of bookmarked front end development resources that I use on a regular basis
   + Transitions
     + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
-    + 
 + Performance
-  + [Browserify](http://browserify.org/): Require modules like in Node.js 
-  +
-
+  + [Browserify](http://browserify.org/): Require modules like in Node.js
 + Testing
   + 
 
