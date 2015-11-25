@@ -40,6 +40,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [Compressor.io](https://compressor.io/): Compress and optimize your images, up to 90% file size reduction
     + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
   + Forms
+    + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
   + Transitions
     + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
