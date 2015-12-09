@@ -39,11 +39,20 @@ List of bookmarked front end development resources that I use on a regular basis
     + [PictureFill](https://scottjehl.github.io/picturefill/): A responsive image polyfill
     + [Compressor.io](https://compressor.io/): Compress and optimize your images, up to 90% file size reduction
     + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
-  + Forms
-    + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
   + Transitions
     + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
     + [Animate.css](https://daneden.github.io/animate.css/): CSS-transitions
+  + Loading
+    + [FastClick](https://github.com/ftlabs/fastclick): Polyfill to remove click delays on browsers with touch UIs
++ Widgets
+  + Carousels
+    + [OwlCarousel](http://owlgraphic.com/owlcarousel/): Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
+  + Progress bars 
+    + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): Responsive and slick progress bars https://kimmobrunfeldt.github.io/progressbar.js
+  + Forms
+    + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
+  + File upload
+    + [jQuery File Upload](http://blueimp.github.io/jQuery-File-Upload/): File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
 + Performance
   + [Browserify](http://browserify.org/): Require modules like in Node.js
 + Testing
