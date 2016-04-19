@@ -25,6 +25,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + CSS
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
     + [Pure](http://purecss.io/): Small CSS framework with responsive modules
+    + [Jeet](http://jeet.gs/): "A grid system for humans"
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
 + UI
