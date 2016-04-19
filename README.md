@@ -17,8 +17,11 @@ List of bookmarked front end development resources that I use on a regular basis
     + [Bower](http://bower.io/): Front end package manager. Good for JavaScript dependencies.   
   + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
-    +   
+  + [Gulp](http://gulpjs.com/): Automate and enhance your workflow  
   + [JSHint](http://jshint.com/): A Static Code Analysis Tool for JavaScript
+  + Wordpress
+    + [Roots](https://roots.io/): helps you build better WordPress sites faster
+    + [underscores](http://underscores.me/): A starter theme for Wordpress
 + Frameworks
   + JavaScript
     + [AngularJS](https://angularjs.org/): Open source web-application framework
