@@ -12,6 +12,8 @@ List of bookmarked front end development resources that I use on a regular basis
   + HTML
   
 + Architecture
+  + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+  + [BEM](https://en.bem.info/): Block, Element, Modifier
 
 + Workflow
 
@@ -37,6 +39,7 @@ List of bookmarked front end development resources that I use on a regular basis
     
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
+  + [normalize.css](http://nicolasgallagher.com/about-normalize-css/)
   
 + UI
   + Colors
