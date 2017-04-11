@@ -49,6 +49,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
     + [BrandColors](http://brandcolors.net/): Official color codes for the world's biggest brands
     + [coolors.co](https://coolors.co/): The super fast color schemes generator!
+    + [Color Tool](https://material.io/color/): A color tool for picking and visually comparing color schemes
     
   + Typography
     + [Font Awesome](https://fortawesome.github.io/Font-Awesome/): The iconic font and CSS toolkit
