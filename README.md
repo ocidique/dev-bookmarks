@@ -86,6 +86,10 @@ List of bookmarked front end development resources that I use on a regular basis
   + [Browserify](http://browserify.org/): Require modules like in Node.js
   
 + Testing
-  + 
+  
+  
++ Utilities
+  + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
+  
 
 
