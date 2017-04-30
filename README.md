@@ -70,6 +70,8 @@ List of bookmarked front end development resources that I use on a regular basis
     + [FastClick](https://github.com/ftlabs/fastclick): Polyfill to remove click delays on browsers with touch UIs
     
 + Widgets
+  + Image
+    + [PhotoSwipe](http://photoswipe.com/): JavaScript gallery, no dependencies.
 
   + Carousels
     + [OwlCarousel](http://owlgraphic.com/owlcarousel/): Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
