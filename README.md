@@ -36,6 +36,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [React](https://facebook.github.io/react/): UI library by Facebook 
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
+    + [Ember](https://www.emberjs.com/): Framework for web applications
     
   + CSS
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
