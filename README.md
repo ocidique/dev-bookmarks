@@ -9,7 +9,10 @@ List of bookmarked front end development resources that I use on a regular basis
     + Less
     + Stylus
   + JavaScript
+    + [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
   + HTML
+    + [HTML5](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
+    + [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
   
 + Architecture
   + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
@@ -19,8 +22,9 @@ List of bookmarked front end development resources that I use on a regular basis
 
   + Package Managers
     + [npm](https://www.npmjs.com/): Default package manager for Node.js
-    + [Bower](http://bower.io/): Front end package manager. Good for JavaScript dependencies.   
+    + [Bower](http://bower.io/): Package manager for the web
   + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
+  + [webpack](https://webpack.github.io/): Module bundler
   + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
   + [Gulp](http://gulpjs.com/): Automate and enhance your workflow  
   + [JSHint](http://jshint.com/): A Static Code Analysis Tool for JavaScript
@@ -31,6 +35,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [React](https://facebook.github.io/react/): UI library by Facebook 
     + [Redux](http://redux.js.org/): predictable state container for JavaScript apps
+    + [Vue.js](https://vuejs.org/)
     
   + CSS
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
@@ -41,6 +46,10 @@ List of bookmarked front end development resources that I use on a regular basis
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
   + [normalize.css](http://nicolasgallagher.com/about-normalize-css/)
   
++ JavaScript
+  + Useful libraries
+    + [Bluebird](http://bluebirdjs.com/docs/getting-started.html): Promise library
+    
 + UI
   + Design
     + [Material Design](https://material.io/)
@@ -69,8 +78,11 @@ List of bookmarked front end development resources that I use on a regular basis
   + Loading
     + [FastClick](https://github.com/ftlabs/fastclick): Polyfill to remove click delays on browsers with touch UIs
     
+  + Animation
+    + [Anime](http://animejs.com/): JavaScript animation engine
+    
 + Widgets
-  + Image
+  + Image & Gallery
     + [PhotoSwipe](http://photoswipe.com/): JavaScript gallery, no dependencies.
 
   + Carousels
@@ -89,7 +101,10 @@ List of bookmarked front end development resources that I use on a regular basis
   + [Browserify](http://browserify.org/): Require modules like in Node.js
   
 + Testing
-  
+  + [Jest](https://facebook.github.io/jest/): "Delightful JavaScript Testing"
+  + [Mocha](https://mochajs.org/): JavaScript test framework
+  + [Chai](http://chaijs.com/): Assertion library, goes with any JavaScript testing framework
+
   
 + Utilities
   + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
