@@ -34,7 +34,7 @@ List of bookmarked front end development resources that I use on a regular basis
   + JavaScript
     + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [React](https://facebook.github.io/react/): UI library by Facebook 
-    + [Redux](http://redux.js.org/): predictable state container for JavaScript apps
+      + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
     + [Vue.js](https://vuejs.org/)
     
   + CSS
