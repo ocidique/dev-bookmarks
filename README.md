@@ -50,6 +50,7 @@ List of bookmarked front end development resources that I use on a regular basis
 + JavaScript
   + Useful libraries
     + [Bluebird](http://bluebirdjs.com/docs/getting-started.html): Promise library
+    + [reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
     
 + UI
   + Design
