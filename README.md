@@ -96,6 +96,9 @@ List of bookmarked front end development resources that I use on a regular basis
   + Forms
     + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
     
+  + Tables
+    + [DataTables](https://datatables.net/): Table plugin for jQuery
+    
   + File upload
     + [jQuery File Upload](http://blueimp.github.io/jQuery-File-Upload/): File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
     
@@ -114,7 +117,11 @@ List of bookmarked front end development resources that I use on a regular basis
 + Editor
   + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2017)
     + Plugins
-      + One Dark Pro -theme
+      + One Dark Pro -theme. Makes your editor look like Atom which appearance pleases my eyes more
+      + vscode-icons, must have icons in the file explorer
+      + Git Lens - git blame annotations, code lens, etc.
+      + Prettier - JavaScript formatter
+      
       
   
 
