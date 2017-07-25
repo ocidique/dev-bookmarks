@@ -92,7 +92,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [OwlCarousel](http://owlgraphic.com/owlcarousel/): Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
     
   + Progress bars 
-    + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): Responsive and slick progress bars https://kimmobrunfeldt.github.io/progressbar.js
+    + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): Responsive and slick progress bars
     
   + Forms
     + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
