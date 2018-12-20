@@ -4,6 +4,7 @@ List of bookmarked front end development resources that I use on a regular basis
 + Languages & Guides
   + CSS
     + [First thing to understand in CSS](https://css-tricks.com/the-css-box-model/): The CSS Box Model
+    + [CSS Grid] (https://css-tricks.com/snippets/css/complete-guide-grid/)
     + Sass
       + [Sass style guide](https://css-tricks.com/sass-style-guide/)
     + Less
