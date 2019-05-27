@@ -123,14 +123,19 @@ List of bookmarked front end development resources that I use on a regular basis
 + Utilities
   + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
   
-+ Editor
++ Tools
   + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2017)
     + Plugins
       + One Dark Pro -theme. Makes your editor look like Atom which appearance pleases my eyes more
       + vscode-icons, must have icons in the file explorer
       + Git Lens - git blame annotations, code lens, etc.
       + Prettier - JavaScript formatter
-      
+  + [Sketch]():
+    + Plugins
+      + [Stark](https://getstark.co/): accessibility plugin
+      + [Anima](https://www.animaapp.com/): advanced layout
+  
+
       
   
 
