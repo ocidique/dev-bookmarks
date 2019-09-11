@@ -15,7 +15,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [HTML5](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
   
 + Accessibility
-  + [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/): Web Content Accessibility Guidelines (WCAG) 2.0
+  + [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
   + [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
   + [Deque Accessibility Tools](https://www.deque.com/axe/): Chrome Extension and tools for automatic and guided testing
   + [NVDA Screen reader](https://www.nvaccess.org/download/): Only for Windows
