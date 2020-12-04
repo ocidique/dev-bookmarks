@@ -14,6 +14,7 @@ List of bookmarked (reasoned) front end development resources that I use on a re
     + [HTML5](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
   
 + Accessibility
+  + [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
   + [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
   + [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
   + [Deque Accessibility Tools](https://www.deque.com/axe/): Chrome Extension and tools for automatic and guided testing
