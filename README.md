@@ -3,8 +3,10 @@ List of bookmarked (reasoned) front end development resources that I use on a re
 
 + Languages & Guides
   + CSS
-    + [CSS TRICKS](https://css-tricks.com/): CSS resources
-    + [CSS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Flexbox Guide
+    + [First thing to understand in CSS](https://css-tricks.com/the-css-box-model/): The CSS Box Model
+    + [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): A Complete Guide to Flexbox
+    + [Grid](https://css-tricks.com/snippets/css/complete-guide-grid/): A Complete Guide to Grid
+    + [CSS TRICKS](https://css-tricks.com/): All kinds of CSS resources
   + JavaScript & TypeScript
     + [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
     + [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
@@ -44,6 +46,8 @@ List of bookmarked (reasoned) front end development resources that I use on a re
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
       + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
+      + [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
+      + [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
     + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [Ember](https://www.emberjs.com/): Framework for web applications
