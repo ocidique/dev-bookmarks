@@ -1,16 +1,15 @@
 #### Front end bookmarks ####
-List of bookmarked front end development resources that I use on a regular basis
+List of bookmarked (reasoned) front end development resources that I use on a regular basis
 
 + Languages & Guides
   + CSS
-    + [First thing to understand in CSS](https://css-tricks.com/the-css-box-model/): The CSS Box Model
-    + [CSS Tricks: A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-    + Sass
-      + [Sass style guide](https://css-tricks.com/sass-style-guide/)
-    + Less
-    + Stylus
-  + JavaScript
+    + [CSS TRICKS](https://css-tricks.com/): Awesome list of resources
+    + [CSS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Flexbox Guide
+    + [TailwindCSS](https://tailwindcss.com/): Best thing at this moment (2020)
+    + Sass, Less, Stylus
+  + JavaScript & TypeScript
     + [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+    + [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
   + HTML
     + [HTML5](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
   
@@ -28,15 +27,11 @@ List of bookmarked front end development resources that I use on a regular basis
 
 + Workflow
 
-  + Package Managers
-    + [npm](https://www.npmjs.com/): Default package manager for Node.js
-    + [Bower](http://bower.io/): Package manager for the web
+  + [npm](https://www.npmjs.com/): Default package manager for Node.js
   + [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management.
-  + [Yeoman](http://yeoman.io/): Generator to kickstart new web projects
   + [webpack](https://webpack.github.io/): Module bundler
-  + [GruntJS](http://gruntjs.com/): Automate tasks such as minification, compilation, unit testing, linting, etc.
-  + [Gulp](http://gulpjs.com/): Automate and enhance your workflow  
-  + [JSHint](http://jshint.com/): A Static Code Analysis Tool for JavaScript
+  
+  + TODO: add cloud stuff
 
 + Frameworks
 
@@ -44,6 +39,8 @@ List of bookmarked front end development resources that I use on a regular basis
     + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [React](https://facebook.github.io/react/): UI library by Facebook 
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
+      + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
+      + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
     + [Ember](https://www.emberjs.com/): Framework for web applications
     
@@ -64,6 +61,7 @@ List of bookmarked front end development resources that I use on a regular basis
 + UI
   + Design
     + [Material Design](https://material.io/)
+    + TODO: add design systems
     
   + Colors
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
@@ -75,6 +73,7 @@ List of bookmarked front end development resources that I use on a regular basis
     + [Font Awesome](https://fortawesome.github.io/Font-Awesome/): The iconic font and CSS toolkit
     
   + Icons
+    + [FontAwesome](https://fontawesome.com/): simply awesome!
     + [Flaticon](http://www.flaticon.com/): free icons
     
   + Images
@@ -117,24 +116,23 @@ List of bookmarked front end development resources that I use on a regular basis
 + Testing
   + [Jest](https://facebook.github.io/jest/): JavaScript testing framework
   + [Enzyme](https://airbnb.io/enzyme/): JavaScript Testing utility for React
-  + [Cypress](https://www.cypress.io/): end-to-end testing  
-
-  + Rather old, personally not using anymore
-  + [Mocha](https://mochajs.org/): JavaScript testing framework
-  + [Chai](http://chaijs.com/): Assertion library, goes with any JavaScript testing framework
+  + [Cypress](https://www.cypress.io/): end-to-end testing
+  + [BackstopJS](https://garris.github.io/BackstopJS/): Visual regression testing for web apps
 
   
 + Utilities
   + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
   
 + Tools
-  + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2017)
+  + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2020)
     + Plugins
       + One Dark Pro -theme. Makes your editor look like Atom which appearance pleases my eyes more
       + vscode-icons, must have icons in the file explorer
       + Git Lens - git blame annotations, code lens, etc.
-      + Prettier - JavaScript formatter
-  + [Sketch]():
+      + Prettier - JavaScript formatter, works with various libraries
+      
+  + [Figma](https://www.figma.com/files/recent): Weapon of choice for UI design prototyping, multi platform
+  + [Sketch](https://www.sketch.com/): Not using much anymore (2020)
     + Plugins
       + [Stark](https://getstark.co/): accessibility plugin
       + [Anima](https://www.animaapp.com/): advanced layout
