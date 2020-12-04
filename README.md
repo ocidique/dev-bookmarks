@@ -3,10 +3,8 @@ List of bookmarked (reasoned) front end development resources that I use on a re
 
 + Languages & Guides
   + CSS
-    + [CSS TRICKS](https://css-tricks.com/): Awesome list of resources
+    + [CSS TRICKS](https://css-tricks.com/): CSS resources
     + [CSS TRICKS](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): Flexbox Guide
-    + [TailwindCSS](https://tailwindcss.com/): Best thing at this moment (2020)
-    + Sass, Less, Stylus
   + JavaScript & TypeScript
     + [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
     + [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
@@ -18,33 +16,40 @@ List of bookmarked (reasoned) front end development resources that I use on a re
   + [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
   + [Deque Accessibility Tools](https://www.deque.com/axe/): Chrome Extension and tools for automatic and guided testing
   + [NVDA Screen reader](https://www.nvaccess.org/download/): Only for Windows
-  + [JAWS Screen reader](https://support.freedomscientific.com/Downloads/JAWS): Only for Windows  
+  + [JAWS Screen reader](https://support.freedomscientific.com/Downloads/JAWS): Only for Windows
+  
+  + TODO: add color contrast pages
 
   
 + Architecture
   + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
   + [BEM](https://en.bem.info/): Block, Element, Modifier
 
-+ Workflow
++ Workflow & Tools 
 
   + [npm](https://www.npmjs.com/): Default package manager for Node.js
   + [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management.
   + [webpack](https://webpack.github.io/): Module bundler
+  
+  + [Storybook](https://storybook.js.org/): Storybook is an open source tool for developing UI components in isolation
+  + [Docusaurus](https://docusaurus.io/): Docusaurus makes it easy to maintain Open Source documentation websites
+  
   
   + TODO: add cloud stuff
 
 + Frameworks
 
   + JavaScript
-    + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [React](https://facebook.github.io/react/): UI library by Facebook 
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
       + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
+    + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [Ember](https://www.emberjs.com/): Framework for web applications
     
   + CSS
+    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thing out there (202)
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
     + [Pure](http://purecss.io/): Small CSS framework with responsive modules
     + [Jeet](http://jeet.gs/): "A grid system for humans"
@@ -80,6 +85,7 @@ List of bookmarked (reasoned) front end development resources that I use on a re
     + [PictureFill](https://scottjehl.github.io/picturefill/): A responsive image polyfill
     + [Compressor.io](https://compressor.io/): Compress and optimize your images, up to 90% file size reduction
     + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
+    + [SVG Minifying](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
     
   + Transitions
     + [smoothState.js](https://github.com/miguel-perez/smoothState.js): jQuery plugin that enhances page load
