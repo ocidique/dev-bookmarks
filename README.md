@@ -48,6 +48,7 @@ List of bookmarked (reasoned) front end development resources that I use on a re
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
       + [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
       + [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+      + [React Table](https://github.com/TanStack/table)
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
     + [AngularJS](https://angularjs.org/): Open source web-application framework
     + [Ember](https://www.emberjs.com/): Framework for web applications
@@ -104,7 +105,7 @@ List of bookmarked (reasoned) front end development resources that I use on a re
     + TODO: add loading animation examples?
     
   + Animation
-    + [Anime](http://animejs.com/): JavaScript animation engine, outdated? Last release 2020
+    + [Anime](http://animejs.com/): JavaScript animation engine. Outdated? Last release 2020
     
 + Widgets
   + Image & Gallery
@@ -139,6 +140,9 @@ List of bookmarked (reasoned) front end development resources that I use on a re
   
 + Utilities
   + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
+
++ Analytics
+  + [Plausible](https://plausible.io/): Google Analytics alternative
   
 + Tools
   + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2022)
