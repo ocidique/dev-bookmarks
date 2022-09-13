@@ -39,11 +39,9 @@
   + [Volta](https://volta.sh/): JavaScript tool manager
   + [Storybook](https://storybook.js.org/): Storybook is an open source tool for developing UI components in isolation
   + [Docusaurus](https://docusaurus.io/): Docusaurus makes it easy to maintain Open Source documentation websites
-  
   + TODO: add cloud stuff?
 
 + Frameworks & Libraries
-
   + JavaScript
     + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
@@ -58,12 +56,10 @@
     + [Strapi](https://strapi.io/): open-source headless CMS built with Node.js
     + [Ember](https://www.emberjs.com/): Framework for web applications
     + Awesome lists?
-
   + Python
     + Django?
     + Flask?
     + Awesome lists? 
-    
   + CSS
     + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (202)
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
@@ -82,58 +78,35 @@
 + UI
   + Design Libraries
     + [Material Design](https://material.io/)
-    
   + Colors
     + [Flat UI color picker](http://bootflat.github.io/color-picker.html)
     + [BrandColors](http://brandcolors.net/): Official color codes for the world's biggest brands, good for study purposes
     + [coolors.co](https://coolors.co/): The super fast color schemes generator
     + [Color Tool](https://material.io/color/): A color tool for picking and visually comparing color schemes
-    
   + Typography
     + [Google Fonts](https://fonts.google.com/)  
-    
   + Icons
     + [Font Awesome](https://fontawesome.com/): Large icon library, free and paid licenses
     + [Flaticon](http://www.flaticon.com/): free icons
     + [heroicons](https://heroicons.com/): Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS
-    
   + Images
     + [PictureFill](https://scottjehl.github.io/picturefill/): A responsive image polyfill
     + [Compressor.io](https://compressor.io/): Compress and optimize your images, up to 90% file size reduction
     + [Better SVG Fallback](http://sarasoueidan.com/blog/svg-picture/): Blog post
     + [SVG Minifying](https://jakearchibald.github.io/svgomg/): SVGO's Missing GUI
-    
   + Transitions & Animation
     + [Animate.css](https://animate.style/): CSS animations
-    
   + Loading
     + TODO: add loading animation examples?
-    
   + Animation
     + [Anime](http://animejs.com/): JavaScript animation engine. Outdated? Last release 2020
     
-+ Widgets
++ Useful Widgets
   + Image & Gallery
     + [PhotoSwipe](http://photoswipe.com/): JavaScript gallery, no dependencies.
-
-  + Carousels
-    + [OwlCarousel](https://owlcarousel2.github.io/OwlCarousel2/index.html): Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
-    
-  + Progress bars 
-    + [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js): Responsive and slick progress bars
-    
-  + Forms
-    + Prefer native inputs; it's 2022 already.
-    + [Select2](https://select2.github.io/): The jQuery replacement for select boxes
-    
-  + Tables
-    + [DataTables](https://datatables.net/): Table plugin for jQuery
-    
-  + File upload
-    + [jQuery File Upload](http://blueimp.github.io/jQuery-File-Upload/): File Upload widget with multiple file selection, drag&drop support, progress bars, validation and preview images, audio and video for jQuery.
     
 + Performance
-  + [Browserify](http://browserify.org/): Require modules like in Node.js
+  + TODO: check for latest perf tools
   
 + Testing
   + [Playwright](https://playwright.dev/): End-to-end testing for modern web apps
@@ -142,11 +115,11 @@
   + [Cypress](https://www.cypress.io/): end-to-end testing
   + [BackstopJS](https://garris.github.io/BackstopJS/): Visual regression testing for web apps
 
-  
 + Utilities
   + [Cookie Consent](https://cookieconsent.insites.com/): Solution to the EU cookie law. Free and open source
 
 + Analytics
+  + [Google Analytics](https://analytics.google.com/): not GDPR compliant anymore?  
   + [Plausible](https://plausible.io/): Google Analytics alternative
   
 + Tools
