@@ -12,37 +12,40 @@
     + [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/getting-started)
   + HTML
     + [HTML5](https://developer.mozilla.org/en/docs/Web/Guide/HTML/HTML5)
+  + Design
+    + [Nielsen Norman Group](https://www.nngroup.com/): Lots of research-based design related articles
+    + [Design Thinking](https://www.nngroup.com/articles/design-thinking-study-guide/)
+    + [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
+    + [Design Systems](https://www.designsystems.com/): Design system articles and repos
+  + Architecture
+    + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
+    + [BEM](https://en.bem.info/): Block, Element, Modifier
   
 + Accessibility
   + [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
   + [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/)
+  + [Google Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/): audits for performance, accessibility, progressive web apps, SEO etc.
   + [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
   + [Deque Accessibility Tools](https://www.deque.com/axe/): Chrome Extension and tools for automatic and guided testing
   + [NVDA Screen reader](https://www.nvaccess.org/download/): Only for Windows
   + [JAWS Screen reader](https://support.freedomscientific.com/Downloads/JAWS): Only for Windows
-  
-  + TODO: add color contrast pages
-
-+ Architecture
-  + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
-  + [BEM](https://en.bem.info/): Block, Element, Modifier
+  + TODO: add color contrast pages?
 
 + Workflow & Tools 
-
   + [npm](https://www.npmjs.com/): Default package manager for Node.js
   + [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management.
   + [webpack](https://webpack.github.io/): Module bundler
-  
+  + [Vite](https://vitejs.dev/): front end tooling
+  + [Volta](https://volta.sh/): JavaScript tool manager
   + [Storybook](https://storybook.js.org/): Storybook is an open source tool for developing UI components in isolation
   + [Docusaurus](https://docusaurus.io/): Docusaurus makes it easy to maintain Open Source documentation websites
   
-  
-  + TODO: add cloud stuff
+  + TODO: add cloud stuff?
 
-+ Frameworks
++ Frameworks & Libraries
 
   + JavaScript
-    + [React](https://facebook.github.io/react/): UI library by Facebook 
+    + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
       + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
       + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
@@ -51,10 +54,18 @@
       + [React Table](https://github.com/TanStack/table)
     + [Vue.js](https://vuejs.org/): Framework for building user interfaces
     + [AngularJS](https://angularjs.org/): Open source web-application framework
+    + [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js
+    + [Strapi](https://strapi.io/): open-source headless CMS built with Node.js
     + [Ember](https://www.emberjs.com/): Framework for web applications
+    + Awesome lists?
+
+  + Python
+    + Django?
+    + Flask?
+    + Awesome lists? 
     
   + CSS
-    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thing out there (202)
+    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (202)
     + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
     + [Pure](http://purecss.io/): Small CSS framework with responsive modules
     + [Jeet](http://jeet.gs/): "A grid system for humans"
@@ -69,12 +80,6 @@
     + [reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
     
 + UI
-  + Design
-    + [Nielsen Norman Group](https://www.nngroup.com/): Lots of research-based design related articles
-    + [Design Thinking](https://www.nngroup.com/articles/design-thinking-study-guide/)
-    + [Design Systems 101](https://www.nngroup.com/articles/design-systems-101/)
-    + [Design Systems](https://www.designsystems.com/): Design system articles and repos 
-
   + Design Libraries
     + [Material Design](https://material.io/)
     
@@ -160,9 +165,3 @@
       + [Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens): Export Figman design tokens as JSON, e.g. if you are using Tailwind naming this will be your saviour. With parser you can generate tailwind configs from your Figma.
       + [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
   + [Sketch](https://www.sketch.com/): Not using anymore, Figma drove by (2022)
-  
-
-      
-  
-
-
