@@ -1,4 +1,4 @@
-# ocidique's opinionated front end bookmarks #
+# ocidique's opinionated dev bookmarks #
 ### List of bookmarked (reasoned) front end development resources that I use on a regular basis ###
 
 + Languages & Guides
