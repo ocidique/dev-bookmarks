@@ -20,6 +20,8 @@
   + Architecture
     + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
     + [BEM](https://en.bem.info/): Block, Element, Modifier
+  + Git
+    + TODO: add list of curated git tips etc.
   
 + Accessibility
   + [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
@@ -121,6 +123,7 @@
 + Analytics
   + [Google Analytics](https://analytics.google.com/): not GDPR compliant anymore?  
   + [Plausible](https://plausible.io/): Google Analytics alternative
+  + [Piwik Pro](https://piwik.pro/): Google Analytics alternative
   
 + Tools
   + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2022)
@@ -137,4 +140,5 @@
       + [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash): Easily access stock photos and improve UI prototyping
       + [Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens): Export Figman design tokens as JSON, e.g. if you are using Tailwind naming this will be your saviour. With parser you can generate tailwind configs from your Figma.
       + [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
-  + [Sketch](https://www.sketch.com/): Not using anymore, Figma drove by (2022)
+  + [Sketch](https://www.sketch.com/): Not using anymore, Figma drove by (2022), Swallowed by Adobe 💩
+  + TODO: add all used tools? iTerm2, ZSH & configurations like powerlevel10k etc, Hammerspoon Shifit, etc. 
