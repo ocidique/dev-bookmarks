@@ -46,7 +46,8 @@
 + Frameworks & Libraries
   + JavaScript
     + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
-      + [Redux](http://redux.js.org/): Predictable state container for JavaScript apps, strongly used with React
+      + [Zustand](https://github.com/pmndrs/zustand): 
+      + [Redux](http://redux.js.org/): A bit more complex state handling, might not be perfect fit for simpler use cases
       + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
       + [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
