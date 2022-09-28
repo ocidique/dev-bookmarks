@@ -64,9 +64,6 @@
     + Awesome lists? 
   + CSS
     + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (202)
-    + [Bootstrap](http://getbootstrap.com/): Front end framework for responsive web
-    + [Pure](http://purecss.io/): Small CSS framework with responsive modules
-    + [Jeet](http://jeet.gs/): "A grid system for humans"
     
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
