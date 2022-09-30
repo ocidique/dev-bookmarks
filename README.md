@@ -44,6 +44,8 @@
   + TODO: add cloud stuff?
 
 + Frameworks & Libraries
+  + CSS
+    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (2022)
   + JavaScript
     + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
       + [Zustand](https://github.com/pmndrs/zustand): 
@@ -62,9 +64,9 @@
   + Python
     + Django?
     + Flask?
-    + Awesome lists? 
-  + CSS
-    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (202)
+    + Awesome lists?
+  + Scala
+    + TODO: add stuff   
     
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
@@ -107,7 +109,11 @@
     
 + Performance
   + TODO: check for latest perf tools
-  
+
++ Security
+  + [Snyk](https://snyk.io/): a developer security platform for securing code, dependencies, containers, and infrastructure as code.
+  + [SonarQube](https://www.sonarqube.org/): Code Quality and Code Security
+
 + Testing
   + [Playwright](https://playwright.dev/): End-to-end testing for modern web apps
   + [Jest](https://facebook.github.io/jest/): JavaScript testing framework
