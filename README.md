@@ -48,7 +48,7 @@
     + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (2022)
   + JavaScript
     + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
-      + [Zustand](https://github.com/pmndrs/zustand): 
+      + [Zustand](https://github.com/pmndrs/zustand): Bear necessities for state management in React
       + [Redux](http://redux.js.org/): A bit more complex state handling, might not be perfect fit for simpler use cases
       + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
@@ -62,11 +62,9 @@
     + [Ember](https://www.emberjs.com/): Framework for web applications
     + Awesome lists?
   + Python
-    + Django?
-    + Flask?
-    + Awesome lists?
-  + Scala
-    + TODO: add stuff   
+    + [Django](https://www.djangoproject.com/): a high-level Python web framework that encourages rapid development and clean, pragmatic design
+    + [Flask](https://flask.palletsprojects.com/): Python microframework 
+    + TODO: add Awesome lists
     
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
@@ -144,5 +142,8 @@
       + [Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash): Easily access stock photos and improve UI prototyping
       + [Design Tokens](https://www.figma.com/community/plugin/888356646278934516/Design-Tokens): Export Figman design tokens as JSON, e.g. if you are using Tailwind naming this will be your saviour. With parser you can generate tailwind configs from your Figma.
       + [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875/A11y---Color-Contrast-Checker)
-  + [Sketch](https://www.sketch.com/): Not using anymore, Figma drove by (2022), Swallowed by Adobe 💩
-  + TODO: add all used tools? iTerm2, ZSH & configurations like powerlevel10k etc, Hammerspoon Shifit, etc. 
+  + [Sketch](https://www.sketch.com/): design tool for macOS
+  + [iTerm2](https://iterm2.com/): macOS Terminal Replacement
+    + [oh-my-zsh](https://ohmyz.sh/): Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
+    + [powerlevel10k](https://github.com/romkatv/powerlevel10k): best zsh theme
+  + [Hammerspoon Shiftit](https://github.com/peterklijn/hammerspoon-shiftit): window management for macOS
