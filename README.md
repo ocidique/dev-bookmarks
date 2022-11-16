@@ -40,8 +40,11 @@
   + [Vite](https://vitejs.dev/): front end tooling
   + [Volta](https://volta.sh/): JavaScript tool manager
   + [Storybook](https://storybook.js.org/): Storybook is an open source tool for developing UI components in isolation
+  
++ Documentation
   + [Docusaurus](https://docusaurus.io/): Docusaurus makes it easy to maintain Open Source documentation websites
-  + TODO: add cloud stuff?
+  + [Mermaid](https://mermaid-js.github.io/mermaid/): Mermaid lets you create diagrams and visualizations using text and code.
+  + [PlantUML](https://plantuml.com/): UML diagrams.
 
 + Frameworks & Libraries
   + CSS
