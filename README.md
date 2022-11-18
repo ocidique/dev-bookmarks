@@ -66,6 +66,7 @@
     + Awesome lists?
   + Python
     + [Django](https://www.djangoproject.com/): a high-level Python web framework that encourages rapid development and clean, pragmatic design
+    + [FastAPI](https://fastapi.tiangolo.com/): a modern, fast (high-performance), web framework for building APIs with Python
     + [Flask](https://flask.palletsprojects.com/): Python microframework 
     + TODO: add Awesome lists
     
