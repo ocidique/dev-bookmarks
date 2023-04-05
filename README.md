@@ -151,3 +151,5 @@
     + [oh-my-zsh](https://ohmyz.sh/): Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
     + [powerlevel10k](https://github.com/romkatv/powerlevel10k): best zsh theme
   + [Hammerspoon Shiftit](https://github.com/peterklijn/hammerspoon-shiftit): window management for macOS
+  + [Git](https://git-scm.com/): the one and best version control system
+    + [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): the best way   
