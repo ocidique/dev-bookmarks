@@ -1,7 +1,7 @@
 # ocidique's opinionated dev bookmarks #
 ### List of bookmarked (reasoned) front end development resources that I use on a regular basis ###
 
-+ Languages & Guides
++ Guides & Approaches
   + CSS
     + [First thing to understand in CSS](https://css-tricks.com/the-css-box-model/): The CSS Box Model
     + [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/): A Complete Guide to Flexbox
@@ -20,8 +20,8 @@
   + Architecture
     + [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/)
     + [BEM](https://en.bem.info/): Block, Element, Modifier
-  + Git
-    + TODO: add list of curated git tips etc.
+  + [Git](https://git-scm.com/): the one and best version control system
+    + [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): the best way
   
 + Accessibility
   + [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/TR/WCAG22/)
@@ -151,5 +151,3 @@
     + [oh-my-zsh](https://ohmyz.sh/): Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration.
     + [powerlevel10k](https://github.com/romkatv/powerlevel10k): best zsh theme
   + [Hammerspoon Shiftit](https://github.com/peterklijn/hammerspoon-shiftit): window management for macOS
-  + [Git](https://git-scm.com/): the one and best version control system
-    + [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): the best way   
