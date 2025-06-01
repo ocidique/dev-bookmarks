@@ -36,7 +36,6 @@
 + Workflow & Tools 
   + [npm](https://www.npmjs.com/): Default package manager for Node.js
   + [Yarn](https://yarnpkg.com/): Fast, reliable, and secure dependency management.
-  + [webpack](https://webpack.github.io/): Module bundler
   + [Vite](https://vitejs.dev/): front end tooling
   + [Volta](https://volta.sh/): JavaScript tool manager
   + [Storybook](https://storybook.js.org/): Storybook is an open source tool for developing UI components in isolation
@@ -48,35 +47,35 @@
 
 + Frameworks & Libraries
   + CSS
-    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (2022)
+    + [TailwindCSS](https://tailwindcss.com/): probably the best CSS thingy out there (2025)
   + JavaScript
-    + [React](https://facebook.github.io/react/): My weapon of choice as UI library  
-      + [Zustand](https://github.com/pmndrs/zustand): Bear necessities for state management in React
-      + [Redux](http://redux.js.org/): A bit more complex state handling, might not be perfect fit for simpler use cases
-      + [MobX](https://mobx.js.org/README.html): Simple, scalable state management
+    + [React](https://facebook.github.io/react/): My weapon of choice as UI library for SPA 
+      + [Zustand](https://github.com/pmndrs/zustand): Best and simplest state management library for React, works with local and global state handling (2025)
+      + [MobX](https://mobx.js.org/README.html): Great choice for better for more reactive applications via observers (2025)
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
-      + [React Hook Form](https://react-hook-form.com/): Performant, flexible and extensible forms with easy-to-use validation.
-      + [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form)
+      + [React Hook Form](https://react-hook-form.com/): Probably the standard form library for React (2025)
+        + [React Hook Form with Schema Validation](https://react-hook-form.com/get-started#SchemaValidation): support schema-based form validation with Yup, Zod , Superstruct & Joi     
+      + [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form): Still great schema based form library from back in the days
       + [React Table](https://github.com/TanStack/table)
-    + [Vue.js](https://vuejs.org/): Framework for building user interfaces
-    + [AngularJS](https://angularjs.org/): Open source web-application framework
-    + [Express](https://expressjs.com/): Fast, unopinionated, minimalist web framework for Node.js
-    + [Strapi](https://strapi.io/): open-source headless CMS built with Node.js
-    + [Ember](https://www.emberjs.com/): Framework for web applications
-    + Awesome lists?
+    + [HTMX](https://htmx.org/): When JavaScript fatigue kicks in. Like a long lost friend when web development was simple and joyful. Great for simplifying projects without losing dynamic features.
   + Python
     + [Django](https://www.djangoproject.com/): a high-level Python web framework that encourages rapid development and clean, pragmatic design
+      + [Awesome Django](https://github.com/wsvincent/awesome-django) 
     + [FastAPI](https://fastapi.tiangolo.com/): a modern, fast (high-performance), web framework for building APIs with Python
     + [Flask](https://flask.palletsprojects.com/): Python microframework 
-    + TODO: add Awesome lists
+  + Java/Kotlin/Scala
+    + [Spring Boot](https://spring.io/projects/spring-boot): Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+      + [Awesome Spring](https://github.com/ThomasVitale/awesome-spring)
+    + [Quarkus](https://quarkus.io/): Container first, designed for distributed application architectures. Great extensions and community.
+      + [Awesome Quarkus](https://github.com/marcuspaulo/awesome-quarkus)
+    + [Play Framework](https://www.playframework.com/): Play is based on a lightweight, stateless, web-friendly architecture. For Java & Scala
     
 + Cross Browser
   + [Modernizr](https://modernizr.com/): Library for detecting browser features
   + [normalize.css](http://nicolasgallagher.com/about-normalize-css/)
   
 + JavaScript
-  + Useful libraries
-    + [Bluebird](http://bluebirdjs.com/docs/getting-started.html): Promise library
+  + Other useful libraries
     + [reveal.js](https://github.com/hakimel/reveal.js): The HTML Presentation Framework
     
 + UI
@@ -119,8 +118,6 @@
 + Testing
   + [Playwright](https://playwright.dev/): End-to-end testing for modern web apps
   + [Jest](https://facebook.github.io/jest/): JavaScript testing framework
-  + [Enzyme](https://airbnb.io/enzyme/): JavaScript Testing utility for React
-  + [Cypress](https://www.cypress.io/): end-to-end testing
   + [BackstopJS](https://garris.github.io/BackstopJS/): Visual regression testing for web apps
 
 + Utilities
@@ -132,7 +129,7 @@
   + [Piwik Pro](https://piwik.pro/): Google Analytics alternative
   
 + Tools
-  + [Visual Studio Code](https://code.visualstudio.com/): Best code editor out there (2022)
+  + [Visual Studio Code](https://code.visualstudio.com/): Best free code editor out there
     + Plugins
       + [One Dark Pro -theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme): Atom‘s iconic One Dark theme for Visual Studio Code
       + [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): A must have icons in the file explorer
@@ -140,6 +137,7 @@
       + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter, works with various libraries
       + [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
       + [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): browse files with TODO etc. comments
+  + [IntelliJ IDEA](https://www.jetbrains.com/idea/): Best paid professional IDE
       
   + [Figma](https://www.figma.com/files/recent): Weapon of choice for UI design prototyping, multi platform
     + Plugins
