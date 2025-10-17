@@ -51,6 +51,7 @@
   + JavaScript
     + [React](https://facebook.github.io/react/): My weapon of choice as UI library for SPA 
       + [Zustand](https://github.com/pmndrs/zustand): Best and simplest state management library for React, works with local and global state handling (2025)
+        + [Immer](https://immerjs.github.io/immer/): Immutable state for Zustand
       + [MobX](https://mobx.js.org/README.html): Great choice for better for more reactive applications via observers (2025)
       + [useHooks](https://usehooks.com/): Easy to understand React Hook recipes
       + [React Hook Form](https://react-hook-form.com/): Probably the standard form library for React (2025)
